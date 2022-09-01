@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ursulo Soy un apasionado por el desarrollo web Frontend y cada día aprendo más acerca de este mundo maravilloso de la tecnología.</div>  
   
 
-- 🌱 🌱 Actualmente estoy aprendiendo Figma Y Maquetar con CSS  
+- 🌱 Actualmente estoy aprendiendo Figma Y Maquetar con CSS  
   
 
 - ❓ Puedes preguntarme lo que sea relacionado con HTML Y CSS  
