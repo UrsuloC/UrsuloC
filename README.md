@@ -1,6 +1,5 @@
 # 💫 About Me:
-👯 Estoy abierto a colaborar en Proyectos.<br>🌱 Actualmente estoy aprendiendo Desarrollo Web<br>💬 Pregúntame sobre HTML Y CSS<br>⚡ Dato curioso si aprendes a usar la terminal de VS Code serás el doble de rápido
-
+👯 Estoy abierto a colaborar en Proyectos.<br>🌱 Actualmente estoy aprendiendo Desarrollo Web<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ursuloc) 
